@@ -7,7 +7,7 @@ The dataset can be found from https://github.com/ngphubinh/adaptors
 
 
 
-## Citing ABCS Corpus
+## Citation
 If you want to cite us, use this :
 ```BibTex
 @article{wm2022lightweight,
